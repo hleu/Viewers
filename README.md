@@ -30,6 +30,10 @@
 [![This project is using Percy.io for visual regression testing.][percy-image]](percy-url)
 [![All Contributors](https://img.shields.io/badge/all_contributors-10-orange.svg?style=flat-square)](#contributors)
 <!-- prettier-ignore-end -->
+## DICOM with Orthanc
+* Get started: https://docs.ohif.org/development/getting-started.html
+* Set up Orthanc: https://docs.ohif.org/configuring/data-source.html
+* (In Progress): yarn run dev:myorthanc (combine default.js and docker_nginx-orthanc.js)
 
 ## About
 
